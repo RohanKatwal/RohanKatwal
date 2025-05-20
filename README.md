@@ -29,3 +29,10 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://np.linkedin.com/in/rohan-katwal" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@rohankatwal4710" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohanKatwal/RohanKatwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohanKatwal/RohanKatwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RohanKatwal/RohanKatwal/output/github-snake.svg" />
+</picture>
