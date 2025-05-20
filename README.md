@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/github/followers/RohanKatwal?style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/RohanKatwal?style=social" alt="GitHub User's stars" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Rohan+Katwal;Fullstack+Developer;Node.js+Developer;Welcome+to+my+profile!" alt="Title" />
