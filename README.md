@@ -10,7 +10,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> I'm Rohan Katwal</h1>
 <p align="center">
   🚀 Fullstack & Node.js Developer from Kathmandu, Nepal<br />
-  📧 rohanwork909@gmail.com | 🌐 <a href="https://www.rohankatwal.com.np">rohankatwal.com.np</a>
+  🌐 <a href="https://www.rohankatwal.com.np">rohankatwal.com.np</a>
 </p>
 
 <p align="center">
